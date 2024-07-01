@@ -54,7 +54,7 @@ function App() {
         ></input>
 
         <a href={result} target="_blank"> {result} </a>
-      
+        
       </div>
     </div>
   );
